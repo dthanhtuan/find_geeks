@@ -9,3 +9,9 @@
 ```
 $ bundle exec rspec
 ```
+
+### Setup test data
+
+```
+$ bin/rails dev:generate_data
+```
